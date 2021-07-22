@@ -1,0 +1,330 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+}
+.first-section {
+  display: flex;
+}
+
+.Travel-the-world-m {
+  width: 481px;
+  height: 126px;
+  margin: 0 0 27px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+.Create-custom-landin {
+  width: 467px;
+  height: 105px;
+  margin: 27px 14px 50px 0;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: blue;
+}
+
+.Email-address {
+  width: 95px;
+  height: 20px;
+  margin: 18px 93px 16px 19px;
+  font-family: CircularStd;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.51px;
+  color: #696871;
+}
+.email-84 {
+  width: 18px;
+  height: 15px;
+  margin: 21px 19px 18px 0;
+  object-fit: contain;
+}
+.I-want-to-join {
+  width: 105px;
+  height: 24px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: var(--white);
+}
+.Rectangle {
+  width: 428px;
+  height: 64px;
+  margin: 50px 49px 0 4px;
+  padding: 5px 5px 5px 18px;
+  border-radius: 9px;
+  border: solid 0.9px #eae9f2;
+  background-color: var(--white);
+}
+.left-side {
+  margin-right: 10px;
+}
+.right-side {
+  margin-left: 30px;
+  padding: 10px;
+  text-align: center;
+}
+
+.section {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.section4-content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Rectangle-Copy-4 {
+  width: 198px;
+  height: 278px;
+  margin: 0 14px 14px 0;
+  object-fit: contain;
+  border-radius: 7.2px;
+}
+.Rectangle-Copy {
+  width: 198px;
+  height: 166px;
+  margin: 42px 109px 13px 14px;
+  object-fit: contain;
+  border-radius: 7.2px;
+}
+.Rectangle-Copy-3 {
+  width: 198px;
+  height: 166px;
+  margin: 14px 14px 41px 0;
+  object-fit: contain;
+  border-radius: 7.2px;
+}
+.Rectangle-Copy-2 {
+  width: 198px;
+  height: 278px;
+  margin: 13px 109px 0 14px;
+  object-fit: contain;
+  border-radius: 7.2px;
+}
+
+.See-the-world-spen {
+  width: 475px;
+  height: 126px;
+  margin: 0 0 22px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+.Create-custom-landin {
+  width: 464px;
+  height: 105px;
+  margin: 22px 8px 0 3px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #696871;
+}
+
+.section5 {
+}
+.Improving-your-trave {
+  width: 475px;
+  height: 126px;
+  margin: 0 0 22px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+.Create-custom-landin {
+  width: 464px;
+  height: 105px;
+  margin: 22px 8px 36px 3px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #696871;
+}
+.BG {
+  width: 180px;
+  height: 54px;
+  margin: 36px 292px 0 3px;
+  padding: 15px 40px 15px 41px;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f04037;
+}
+.Get-this-app {
+  width: 99px;
+  height: 24px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: white;
+}
+.Image {
+  width: 364px;
+  height: 630px;
+  margin: 0 0 0 93px;
+  object-fit: contain;
+}
+.section6 {
+  width: 1440px;
+  height: 714px;
+  margin: 98.1px 0 82.5px;
+  padding: 302px 664px 300px;
+  object-fit: contain;
+  opacity: 0.1;
+  background-image: url("https://res.cloudinary.com/dk4cta7l7/image/upload/v1626840278/layer_j5xnin.png");
+}
+.Oval {
+  width: 112px;
+  height: 112px;
+  padding: 46px 47px;
+  background-color: var(--white);
+}
+
+.Get-the-app-now {
+  width: 601px;
+  height: 63px;
+  margin: 0 0 18px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  text-align: center;
+  color: #19191b;
+}
+.Create-custom-landin {
+  width: 471px;
+  height: 70px;
+  margin: 18px 64px 31px 66px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #696871;
+}
+.App-Store {
+  width: 188px;
+  height: 59px;
+  margin: 0 16px 0 0;
+  object-fit: contain;
+}
+.App-Store {
+  width: 188px;
+  height: 59px;
+  margin: 0 16px 0 0;
+  object-fit: contain;
+}
+
+.store-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Travel-the-world-m {
+  width: 481px;
+  height: 126px;
+  margin: 0 0 27px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+.Create-custom-landin {
+  width: 467px;
+  height: 105px;
+  margin: 27px 14px 50px 0;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #19191b;
+}
+
+.section-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px;
+}
+.email-84 {
+  width: 18px;
+  height: 15px;
+  margin: 21px 19px 18px 0;
+  object-fit: contain;
+}
+.Email-address {
+  width: 95px;
+  height: 20px;
+  margin: 18px 93px 16px 19px;
+  font-family: CircularStd;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.51px;
+  color: #696871;
+}

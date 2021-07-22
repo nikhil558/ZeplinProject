@@ -1,0 +1,116 @@
+.signup-container {
+  width: 100vw;
+  background-color: #f7f8fa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup-logo {
+  font-family: CircularStd;
+  font-size: 24px;
+  color: #19191b;
+}
+
+.signup-form {
+  width: 527px;
+  margin: 40px 0 0;
+  border-radius: 10px;
+  padding: 20px 57px 50px;
+  padding-bottom: 10px;
+  box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+  background-color: var(--white);
+  margin-bottom: 80px;
+}
+
+.signup-heading {
+  margin-top: -5px;
+  font-family: CircularStd;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  color: #1d293f;
+}
+
+.signup-para {
+  margin-top: -30px;
+  font-family: CircularStd;
+  font-size: 21px;
+  text-align: center;
+  color: #696871;
+}
+
+.signup-input {
+  width: 200px;
+  height: 30px;
+  margin: 35px 1px 17px;
+  padding: 25px 281px 25px 27px;
+  border-radius: 10px;
+  border: solid 1px #eae9f2;
+  background-color: var(--white);
+  font-family: CircularStd;
+  margin-top: -10px;
+  font-size: 18px;
+  color: #9c9aaa;
+  outline: none;
+}
+
+.checkbox {
+  width: 19px;
+  height: 19px;
+  margin: 4px 12px 5px 0;
+  padding: 7px 5px 6px 6px;
+  border-radius: 3px;
+  border: solid 1px #5454d4;
+  background-color: #5454d4;
+}
+
+.checkbox-label {
+  font-family: CircularStd;
+  font-size: 16px;
+  color: #696871;
+  margin-top: 4px;
+}
+
+.terms-conditions {
+  color: #5454d4;
+}
+
+.signup-button {
+  width: 100%;
+  height: 60px;
+  padding: 17px 107px 16px 106px;
+  border-radius: 10px;
+  border: solid 1px #c31a12;
+  background-color: #f04037;
+  font-family: CircularStd;
+  font-size: 21px;
+  font-weight: 500;
+  text-align: center;
+  color: var(--white);
+}
+
+.account-para {
+  font-family: CircularStd;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  color: #696871;
+}
+.sign-in-text {
+  color: #5454d4;
+}
+
+.checkbox-container {
+  display: flex;
+}
+
+.error-msg {
+  font-size: 15px;
+  color: red;
+  margin-top: -10px;
+  margin-left: 10px;
+}
