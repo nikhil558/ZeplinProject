@@ -87,7 +87,7 @@ class Signin extends Component {
             className="signup-input"
             onChange={this.passwordValue}
           />
-          <div className="checkbox-container container">
+          <div className="checkbox-container">
             <input
               type="checkbox"
               className="checkbox"
