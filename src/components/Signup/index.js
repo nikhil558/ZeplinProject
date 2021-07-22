@@ -53,9 +53,7 @@ class Signup extends Component {
     } else if (password.search(/[A-Z]/) === -1) {
       passwordError = "Atleast 1 upperCase letter";
     } else if (
-      password.search(
-        /[!\ @ \ # \ $ \ % \ ^ \ & \ * \ ( \ ) \ _ \ + \ , \ . ]/
-      ) === -1
+      password.search(/[! @  #  $  % ^  &  *  (  )  _  +  ,  . ]/) === -1
     ) {
       passwordError = "Atleast 1 spetial character";
     }
